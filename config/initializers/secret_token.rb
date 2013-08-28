@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-BackbonerailsDemo::Application.config.secret_key_base = '4e593ee1451dc792e28ead15ecf2153d9a7a7661f4499f4511b3d997f484dfdcbbcca3c1363dc78eb85e1e443ce4f975a72b63d23407306355cd73890bbf48c6'
+Demo::Application.config.secret_key_base = 'dc4997932b514cb35cf5163b929fc430d9a63132f7fab2059a26576dccc236ecfcc33c3aa7eaa9e01e69f738f9bc3575c369f67b77297e71a6103b85255c4007'
